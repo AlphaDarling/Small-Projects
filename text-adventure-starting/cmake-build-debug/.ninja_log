@@ -1,0 +1,21 @@
+# ninja log v5
+0	238	1681582765471356874	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+239	276	1681582765511252238	text_adventure_starting	a829667f150231bc
+5	295	1681606144039114150	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+295	335	1681606144082569152	text_adventure_starting	a829667f150231bc
+5	267	1681606357031034080	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+267	305	1681606357071318950	text_adventure_starting	a829667f150231bc
+6	249	1681606479241726407	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+249	285	1681606479278936076	text_adventure_starting	a829667f150231bc
+5	255	1681606617208677932	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+255	293	1681606617248385927	text_adventure_starting	a829667f150231bc
+4	251	1681607008562639405	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+252	289	1681607008601857152	text_adventure_starting	a829667f150231bc
+4	263	1681607206978996451	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+263	298	1681607207016193663	text_adventure_starting	a829667f150231bc
+5	255	1681607275291714938	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+255	291	1681607275329743356	text_adventure_starting	a829667f150231bc
+5	259	1681607331435826483	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+260	295	1681607331473529651	text_adventure_starting	a829667f150231bc
+5	320	1681607695775950410	CMakeFiles/text_adventure_starting.dir/text-adventure.cpp.o	e7d2303fa85c3481
+320	359	1681607695817623773	text_adventure_starting	a829667f150231bc

@@ -1,0 +1,3 @@
+/Users/alphadarling/Downloads/text-adventure-starting/cmake-build-debug/CMakeFiles/text_adventure_starting.dir
+/Users/alphadarling/Downloads/text-adventure-starting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alphadarling/Downloads/text-adventure-starting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
